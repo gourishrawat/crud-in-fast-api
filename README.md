@@ -1,0 +1,1 @@
+# crud-in-fast-api
